@@ -91,6 +91,12 @@ To create an ordered list, just add the list in numbered format.
 - item 2
 - item 3
 
+### Check List
+
+- [ ] item 1
+- [ ] item 2
+- [ ] item 3
+
 ## Table
 
 ```markdown
