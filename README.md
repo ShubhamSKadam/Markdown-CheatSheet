@@ -151,14 +151,14 @@ Add '+' before the new line of code you want to add.
 ````
 ```diff
 - const firstName = 'Shubham';
-+ const firstName = 'Samarth';
++ const firstName = 'Divyanshi';
 const lastName = 'Kadam';
 ```
 ````
 
 ```diff
 - const firstName = 'Shubham';
-+ const firstName = 'Samarth';
++ const firstName = 'Divyanshi';
 const lastName = 'Kadam';
 
 ```
