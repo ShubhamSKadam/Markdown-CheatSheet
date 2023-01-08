@@ -9,6 +9,7 @@
 ## Table of contents
 - [Text styling](#text-styling)
 - [Adding link](#adding-links)
+  - [Link to page section](#link-to-page-section)
 - [Adding image](#adding-image)
 - [Lists](#lists)
   - [Nested List](#nested-list)
@@ -70,7 +71,8 @@ This is my new idea.
 
 This is a [website](google.com) link.
 
-## Link to page section
+### Link to page section
+
    Link to the page section can be added by referring to the heading. It it same as normal link but a minor change. The link in the same page section referred with the `#heading-separeted-by-dash` and in different page section referred as `url#heading-separeted-by-dash` all in lower case.
  
  ```
