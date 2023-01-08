@@ -54,6 +54,14 @@ This is my new idea.
 
 This is a [website](google.com) link.
 
+## Link to page section
+   Link to the page section can be added by referring to the heading. It it same as normal link but a minor change. The link in the same page section referred with the `#heading-separeted-by-dash` and in different page section referred as `url#heading-separeted-by-dash` all in lower case.
+ 
+ ```
+ Go to [Text Styling](#text-styling)
+ ```
+  Go to [Text Styling](#text-styling)
+
 ## Adding Image
 
 It's similar to adding links, but the only difference is that it starts with an exclamation mark (`!`). Additionally, the text enclosed in square brackets (`[ ]`) is the alt text that is shown in place of the image when it can't be displayed. It should describe what is seen in the photo.
