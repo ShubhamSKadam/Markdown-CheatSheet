@@ -11,7 +11,7 @@
 - [Adding link](#adding-links)
 - [Adding image](#adding-image)
 - [Lists](#lists)
-  - [Nested List](#nested-lists)
+  - [Nested List](#nested-list)
   - [Check List](#check-list)
 - [Table](#table)
 - [Code](#code)
