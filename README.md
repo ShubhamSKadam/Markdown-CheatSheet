@@ -6,6 +6,22 @@
 />
 <!-- HTML elements can be used inside of Markdown, as seen above. -->
 
+## Table of contents
+- [Text styling](#text-styling)
+- [Adding link](#adding-links)
+- [Adding image](#adding-image)
+- [Lists](#lists)
+  - [Nested List](#nested-lists)
+  - [Check List](#check-list)
+- [Table](#table)
+- [Code](#code)
+  - [Inline Code](#inline-code)
+  - [Block of code](#block-of-code)
+  - [Before and After in Code](#before-and-after-in-code)
+- [Quotes](#quotes)
+- [Comments](#comments)
+- [Collapsible content](#collapsible-content)
+
 ## Text styling
 
 ```markdown
@@ -192,7 +208,7 @@ const lastName = 'Kadam';
 const lastName = 'Kadam';
 ```
 
-### Quotes
+## Quotes
 
 Use '>' to create a quote. The quote is more like a question and the answer and can be in a simple text as shown below.
 
@@ -204,7 +220,7 @@ Use '>' to create a quote. The quote is more like a question and the answer and 
 
 Great Idea, this discussion was really useful. I will go ahead and do it.
 
-### Comments
+## Comments
 Comments span multiple lines and are invisible in the viewer, but can be seen in the editor. They are the same as HTML comments.
 
 `<!-- This is a comment -->`
@@ -216,7 +232,7 @@ Comments span multiple lines and are invisible in the viewer, but can be seen in
 -->
 ```
 
-### Collapsible content
+## Collapsible content
 
 ```markdown
 <details>
